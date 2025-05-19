@@ -1,20 +1,7 @@
 # Supervised-Classification-of-SERAMPORE-SUBDIVISION-2014
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>
-    <div class="container">
-       
-        <p>This supervised land use land cover (LULC) classification of the Serampore Subdivision for 2014 was prepared using QGIS, with data sourced from USGS Earth Explorer. It provides a detailed view of the land cover in the Serampore area, supporting environmental analysis and urban planning.</p>
-        <a href="#" class="button">View Project</a>
-        <p class="data-source">Data Sources: USGS Earth Explorer | Software Used: QGIS</p>
-    </div>
-</body>
-</html>
+## Data sources- USGS Earth explorar 
+## Software used - QGIS
+## Supervised Classification of SERAMPORE SUBDIVISION - 2014 , Prepared by me. Here this classification shows the LULC COVER on Serampur area.
 
 
 
