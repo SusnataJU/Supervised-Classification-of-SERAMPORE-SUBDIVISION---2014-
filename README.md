@@ -1,4 +1,7 @@
 # Supervised-Classification-of-SERAMPORE-SUBDIVISION-2014
+Data sources- USGS Earth explorar 
+Software used-QGIS
+Supervised Classification of SERAMPORE SUBDIVISION - 2014 , Prepared by me. Here this classification shows the LULC COVER on Serampur area.
 
 
 
