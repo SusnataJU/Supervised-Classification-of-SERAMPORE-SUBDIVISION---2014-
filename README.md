@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Supervised LULC Classification - Serampore Subdivision (2014)</h1>
+       
         <p>This supervised land use land cover (LULC) classification of the Serampore Subdivision for 2014 was prepared using QGIS, with data sourced from USGS Earth Explorer. It provides a detailed view of the land cover in the Serampore area, supporting environmental analysis and urban planning.</p>
         <a href="#" class="button">View Project</a>
         <p class="data-source">Data Sources: USGS Earth Explorer | Software Used: QGIS</p>
